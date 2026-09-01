@@ -29,7 +29,7 @@ The dashboard provides a comprehensive view of **1,000 bike buyers** and visuali
 
 ## 🖼️ Screenshot
 
-![Bike Buyers Factors Dashboard](./screenshots/bike-buyers-dashboard.png)
+![Bike Buyers Factors Dashboard](https://github.com/rohtashsharma016/Indian-Bikes-Sales-Analysis-/blob/main/bike-buyers-dashboard.png)
 
 ---
 
